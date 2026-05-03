@@ -11,7 +11,8 @@ export default function About() {
   return (
     <section className="about section-pad" id="about">
       <div className="container">
-        <div className="section-tag">// about me</div>
+        <div className="section-tag">{'// about me'}</div>
+
         <div className="about-grid">
           <div className="about-visual">
             <div className="av-card">
