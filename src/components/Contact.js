@@ -27,7 +27,8 @@ export default function Contact() {
   return (
     <section className="contact section-pad" id="contact">
       <div className="container">
-        <div className="section-tag">// contact</div>
+        <div className="section-tag">{'// contact'}</div>
+
         <h2 className="section-heading">Let's Work Together</h2>
         <p className="contact-sub">
           I'm currently open to internship opportunities and collaborations. 
