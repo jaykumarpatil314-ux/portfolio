@@ -69,9 +69,9 @@ export default function Hero() {
 
         <p className="hero-tagline">
           <span className="typed-text">B.Tech CS Student</span>
-          <span className="separator"> // </span>
+          <span className="separator">{' // '}</span>
           <span className="typed-text">AI & Android Developer</span>
-          <span className="separator"> // </span>
+          <span className="separator">{' // '}</span>
           <span className="typed-text">Problem Solver</span>
         </p>
 
